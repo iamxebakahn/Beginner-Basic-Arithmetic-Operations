@@ -1,3 +1,18 @@
+// Problem Description
+
+// Print the following
+// 2 Two 4 Four 6 Six
+
+
+// Output Format
+
+// Print the numbers with the text.
+
+
+// Example Output
+
+// 2 Two 4 Four 6 Six
+
 import java.lang.*;
 import java.util.*;
 
