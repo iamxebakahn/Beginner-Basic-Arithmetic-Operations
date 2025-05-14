@@ -1,3 +1,25 @@
+// Q1. Odd numbers
+// Solved
+// feature icon
+// Get your doubts resolved blazing fast with Chat GPT Help
+// Check Chat GPT
+// feature icon
+// Using hints except Complete Solution is Penalty free now
+// Use Hint
+// Problem Description
+
+// Print first 5 odd numbers i.e. 1, 3, 5, 7, 9 using concatenation operator ( + )
+
+
+// Output Format
+
+// Print first five odd numbers separated by space.
+
+
+// Example Output
+
+// 1 3 5 7 9
+
 import java.lang.*;
 import java.util.*;
 
